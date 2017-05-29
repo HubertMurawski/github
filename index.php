@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="pl-PL">
 	<head>
 		<title>Nauka Githuba</title>
-		<meta charset="utf-8">
+		<meta charset="UTF-8">
 	</head>
 	<body>
 		<h2>Nauka Gita</h2>
