@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="pl-PL">
+<html lang="pl">
 	<head>
 		<title>Nauka Githuba</title>
 		<meta charset="UTF-8">
