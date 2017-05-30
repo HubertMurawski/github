@@ -5,7 +5,6 @@
 		<meta charset="UTF-8">
 	</head>
 	<body>
-		<h2>Hello</h2>
 
 		<h3>0.4</h3>
 	</body>
