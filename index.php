@@ -5,6 +5,6 @@
 		<meta charset="UTF-8">
 	</head>
 	<body>
-		<h2>Nauka Gita</h2>
+		<h2>Hello!</h2>
 	</body>
 </html>
